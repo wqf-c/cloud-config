@@ -1,2 +1,2 @@
-info:
-    prod
+config:
+    info: prod,version=1
