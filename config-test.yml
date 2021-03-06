@@ -1,2 +1,2 @@
-info:
-    test
+config:
+    info: test,version=1
